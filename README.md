@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Florent Collin /</strong> <a href="https:https://florentcollin.github.io/">Homepage & Blog</a></pre></p>
+<strong>Florent Collin /</strong> <a href="https://florentcollin.github.io/">Homepage & Blog</a></pre></p>
 
 
 > I'm a student developer at UMons with a back-end experience, I am currently focusing on learning low-level programming, graphics rendering and graphics manipulation.
